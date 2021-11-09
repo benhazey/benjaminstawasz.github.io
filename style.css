@@ -1,1 +1,5 @@
 
+.navbar{ /*Adding a backround to the navbar */
+background-color: #00008B;
+overflow: hidden;
+}

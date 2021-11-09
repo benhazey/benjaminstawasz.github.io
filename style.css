@@ -3,3 +3,65 @@
 background-color: #00008B;
 overflow: hidden;
 }
+.navbar a { /*change style of nav bar*/
+  float:left;
+  color: #FFFFFF;
+  text-align: center;
+  padding-left: 193px;
+  padding-right: 193px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-decoration:none;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.navbar a:hover{ /*changes color of backround when hovering*/
+  background-color: #000000;
+}
+
+.sneaker {
+  padding-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.benpic {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Homename { /*Here I am changing the font of all the elements in the pages, I am now realizing I could've put them into a single class rather than separating them */
+  padding-left: 20px;
+  font-family: sans-serif;
+}
+.fishingcaption{
+  font-family: sans-serif;
+}
+.list1{
+  font-family: sans-serif;
+}
+.hometitle{
+  padding-right: 20px;
+  font-family: sans-serif;
+}
+.hobbytitle{
+  font-family: sans-serif;
+}
+.abouttitle{
+  font-family: sans-serif;
+  padding-right: 20px;
+}
+.contactitle{
+  font-family: sans-serif;
+  padding-right: 20px;
+}
+.main{
+  background-color: aec6cf;
+}
+.contactinfo{
+  font-family: sans-serif;
+  padding-top: 200px
+}

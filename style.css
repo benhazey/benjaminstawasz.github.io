@@ -1,4 +1,3 @@
-
 .navbar{ /*Adding a backround to the navbar */
 background-color: #00008B;
 overflow: hidden;
@@ -64,4 +63,18 @@ overflow: hidden;
 .contactinfo{
   font-family: sans-serif;
   padding-top: 200px
+}
+
+}
+.ContactMain {
+  flex: 1 0 auto;
+}
+.footer {
+  flex-shrink: 0;  /* Creating a footer that will remain at the bottom of the page */
+  text-align: right;
+  padding-top: 315px;
+}
+.facebookimage{
+  padding-bottom: 12.5px;
+
 }
